@@ -1,0 +1,12 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background: url("../hinh/bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
